@@ -4,3 +4,6 @@
 [submodule "2. Full Body"]
 	path = 2. Full Body
 	url = https://github.com/AhmedKhaled8/FullBodyMovement-OpenGL-cpp
+[submodule "3. Camera Movement"]
+	path = 3. Camera Movement
+	url = https://github.com/AhmedKhaled8/Camera-Movement
