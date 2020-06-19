@@ -1,3 +1,6 @@
 [submodule "1. Robotic Arm"]
 	path = 1. Robotic Arm
 	url = https://github.com/AhmedKhaled8/Robotic-Arm-OpenGl-CPP
+[submodule "2. Full Body"]
+	path = 2. Full Body
+	url = https://github.com/AhmedKhaled8/FullBodyMovement-OpenGL-cpp
